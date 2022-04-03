@@ -5,11 +5,11 @@
 }
 @font-face {
     font-family: 'Nebula';
-    src: url(Fonts/ExplorerSans-Regular.ttf);
+    src: url(Font/ExplorerSans-Regular.ttf);
 }
 @font-face {
     font-family: 'Nebula1';
-    src: url(Fonts/Montserrat-Light.otf);
+    src: url(Font/Montserrat-Light.otf);
 }
 .container{
     width: 100%;
