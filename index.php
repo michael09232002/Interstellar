@@ -22,7 +22,7 @@
         <div class="column1">
             <img src="Image\process.gif" class="Logo1">
             <h2>WELCOME,</h2>
-            <h4>Cas hahaha<br>WE DESIGN YOUR SUCCESS</h4>
+            <h4>Dave potyong hahaha<br>WE DESIGN YOUR SUCCESS</h4>
             <h3>This business requires some skills in terms of designing and coding. 
                 You can learn the skills or hire someone who can work under you to design and develop websites. 
                 There’s still a huge scope left for website designing services in the tech industry.</h3>
